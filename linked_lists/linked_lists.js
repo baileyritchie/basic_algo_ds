@@ -138,3 +138,8 @@ ll.prepend(3);
 
 ll.toString((val) => console.log(val));
 
+module.exports = {
+  LinkedList,
+  LinkedListNode
+}
+
